@@ -39,9 +39,14 @@ information from the awesome blitzortung.org project and near-realtime satellite
 * **Progressive Web App:** responsive, connectivity independent and
   app-like on modern browsers. Requires WebGL.
 
-<img alt="Screen Shot 2022-05-12 at 23 41 49" src="https://user-images.githubusercontent.com/1577223/168177022-11ee8d33-b0e7-4325-9153-452adeaae5c6.png" style="float: left; width: 28%;">
-<img width="32%" alt="Screen Shot 2022-05-12 at 23 41 54" src="https://user-images.githubusercontent.com/1577223/168177032-49166b1a-5fa8-4aa0-ae75-3e40dca7e7e8.png" style="width: 28%;">
-<img width="32%" alt="Screen Shot 2022-05-12 at 23 41 43" src="https://user-images.githubusercontent.com/1577223/168177010-ab8c6df4-6458-4489-91d3-a9bf9f1c32a4.png" style="width: 28%;">
+<img src="https://raw.githubusercontent.com/v4lli/meteocool/master/frontend/assets/download-on-appstore.png" style="width 32%; float: left;" alt="Download on Apple Appstore"></a>
+<a href="https://play.google.com/store/apps/details?id=com.meteocool"><img src="https://user-images.githubusercontent.com/1577223/57536457-84883480-7344-11e9-899d-c31ac124917c.png" style="width: 31%" alt="Download on Google Play Store"></a>
+<a href="https://f-droid.org/de/packages/com.meteocool/"><img src="https://raw.githubusercontent.com/meteocool/core/develop/public/assets/fdroid-small.png" style="width: 29%" alt="Get it on F-Droid"></a>
+
+
+<a href="https://itunes.apple.com/de/app/meteocool-rain-radar/id1438364623"><img alt="Screen Shot 2022-05-12 at 23 41 49" src="https://user-images.githubusercontent.com/1577223/168177022-11ee8d33-b0e7-4325-9153-452adeaae5c6.png" style="float: left; width: 28%;"></a>
+<a href="https://itunes.apple.com/de/app/meteocool-rain-radar/id1438364623"><img width="32%" alt="Screen Shot 2022-05-12 at 23 41 54" src="https://user-images.githubusercontent.com/1577223/168177032-49166b1a-5fa8-4aa0-ae75-3e40dca7e7e8.png" style="width: 28%;"></a>
+<a href="https://itunes.apple.com/de/app/meteocool-rain-radar/id1438364623"><img width="32%" alt="Screen Shot 2022-05-12 at 23 41 43" src="https://user-images.githubusercontent.com/1577223/168177010-ab8c6df4-6458-4489-91d3-a9bf9f1c32a4.png" style="width: 28%;"></a>
  
 ## Contributing
 
