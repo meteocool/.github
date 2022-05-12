@@ -10,11 +10,11 @@ Use it to both chase or avoid upcoming weather - that's up to you.
 meteocool currently uses radar data provided by DWD, realtime lightning
 information from the awesome blitzortung.org project and satellite imagery from Copernicus.
 
+
 <a href="https://itunes.apple.com/de/app/meteocool-rain-radar/id1438364623"><img src="https://raw.githubusercontent.com/v4lli/meteocool/master/frontend/assets/download-on-appstore.png" style="width 32%; float: left;" alt="Download on Apple Appstore"></a>
 <a href="https://play.google.com/store/apps/details?id=com.meteocool"><img src="https://user-images.githubusercontent.com/1577223/57536457-84883480-7344-11e9-899d-c31ac124917c.png" style="width: 32%" alt="Download on Google Play Store"></a>
 <a href="https://f-droid.org/de/packages/com.meteocool/"><img src="https://raw.githubusercontent.com/meteocool/core/develop/public/assets/fdroid-small.png" style="width: 32%" alt="Get it on F-Droid"></a>
 
-We welcome contributions of all kinds. The iOS and Android applications are maintained in their respective repositories. Check out the [Frequently Asked Questions](https://github.com/meteocool/core/wiki/FAQ) (currently only available in German).
 
 ## Features
 
@@ -26,15 +26,21 @@ We welcome contributions of all kinds. The iOS and Android applications are main
 * **Live Lightning Strikes:** new lightning strikes are displayed instantly,
   giving you an even better feeling for the cloud formation's intensity,
   trajectory and speed. Based on data from blitzortung.org.
-* **Push Notifications:** get notified about incoming rain up to 60 minutes
-  in advance. Requires iOS or Android App (currently not available on F-Droid).
-* Automatic **Dark Mode:** great for HUD-like displays and general
-  night time usage. Turns on automatically if you enable dark mode
-  on your mobile or desktop operating system.
-* **Progressive Web App:** responsive, connectivity independent and
-  app-like on modern browsers. Requires WebGL.
 * **iOS & Android Apps:** "native" iOS and Android apps provide battery-efficient
   background location services to allow for accurate rain notifications
   & navigation.
+* **Push Notifications:** get notified about incoming rain up to 60 minutes
+  in advance. Requires iOS or Android App (currently not available on F-Droid).
+  
+* Automatic **Dark Mode:** great for HUD-like displays and general
+  night time usage. Turns on automatically if you enable dark mode
+  on your iOS, Android or desktop system (where supported).
+
+* **Progressive Web App:** responsive, connectivity independent and
+  app-like on modern browsers. Requires WebGL.
 
 <img width="100%" alt="Screenshot 2019-05-11 13 33 19" src="https://user-images.githubusercontent.com/1577223/57573080-444bb380-7423-11e9-935d-2a990f5026f6.png">
+
+## Contributing
+
+We welcome contributions of all kinds. The iOS and Android applications are maintained in their respective repositories. Check out the [Frequently Asked Questions](https://github.com/meteocool/core/wiki/FAQ) (currently only available in German).
