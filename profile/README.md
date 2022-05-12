@@ -39,7 +39,10 @@ information from the awesome blitzortung.org project and satellite imagery from 
 * **Progressive Web App:** responsive, connectivity independent and
   app-like on modern browsers. Requires WebGL.
 
-<img width="100%" alt="Screenshot 2019-05-11 13 33 19" src="https://user-images.githubusercontent.com/1577223/57573080-444bb380-7423-11e9-935d-2a990f5026f6.png">
+<img width="32%" alt="Screen Shot 2022-05-12 at 23 41 49" src="https://user-images.githubusercontent.com/1577223/168177022-11ee8d33-b0e7-4325-9153-452adeaae5c6.png">
+<img width="32%" alt="Screen Shot 2022-05-12 at 23 41 54" src="https://user-images.githubusercontent.com/1577223/168177032-49166b1a-5fa8-4aa0-ae75-3e40dca7e7e8.png">
+<img width="32%" alt="Screen Shot 2022-05-12 at 23 41 43" src="https://user-images.githubusercontent.com/1577223/168177010-ab8c6df4-6458-4489-91d3-a9bf9f1c32a4.png">
+ 
 ## Contributing
 
 We welcome contributions of all kinds. Check out the [Frequently Asked Questions](https://github.com/meteocool/core/wiki/FAQ) (currently only available in German).
