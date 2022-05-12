@@ -12,8 +12,8 @@ information from the awesome blitzortung.org project and satellite imagery from 
 
 
 <a href="https://itunes.apple.com/de/app/meteocool-rain-radar/id1438364623"><img src="https://raw.githubusercontent.com/v4lli/meteocool/master/frontend/assets/download-on-appstore.png" style="width 32%; float: left;" alt="Download on Apple Appstore"></a>
-<a href="https://play.google.com/store/apps/details?id=com.meteocool"><img src="https://user-images.githubusercontent.com/1577223/57536457-84883480-7344-11e9-899d-c31ac124917c.png" style="width: 32%" alt="Download on Google Play Store"></a>
-<a href="https://f-droid.org/de/packages/com.meteocool/"><img src="https://raw.githubusercontent.com/meteocool/core/develop/public/assets/fdroid-small.png" style="width: 32%" alt="Get it on F-Droid"></a>
+<a href="https://play.google.com/store/apps/details?id=com.meteocool"><img src="https://user-images.githubusercontent.com/1577223/57536457-84883480-7344-11e9-899d-c31ac124917c.png" style="width: 31%" alt="Download on Google Play Store"></a>
+<a href="https://f-droid.org/de/packages/com.meteocool/"><img src="https://raw.githubusercontent.com/meteocool/core/develop/public/assets/fdroid-small.png" style="width: 29%" alt="Get it on F-Droid"></a>
 
 
 ## Features
@@ -40,7 +40,12 @@ information from the awesome blitzortung.org project and satellite imagery from 
   app-like on modern browsers. Requires WebGL.
 
 <img width="100%" alt="Screenshot 2019-05-11 13 33 19" src="https://user-images.githubusercontent.com/1577223/57573080-444bb380-7423-11e9-935d-2a990f5026f6.png">
-
 ## Contributing
 
-We welcome contributions of all kinds. The iOS and Android applications are maintained in their respective repositories. Check out the [Frequently Asked Questions](https://github.com/meteocool/core/wiki/FAQ) (currently only available in German).
+We welcome contributions of all kinds. Check out the [Frequently Asked Questions](https://github.com/meteocool/core/wiki/FAQ) (currently only available in German).
+
+## Acknowledgements
+
+All our code & documentation is licensed under the AGPL-3.0 license unless noted otherwise in the respective repository's `COPYRIGHT.md` file.
+
+meteocool is developed and maintained by [Valentin Dornauer](https://github.com/v4lli), servers are paid for by [Jonas](https://github.com/pew); Special thanks to [OroraTech](https://github.com/ororatech) for their continued sponsorship.
