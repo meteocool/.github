@@ -1,4 +1,4 @@
-# meteocool
+# meteocool ⚡️
 
 [meteocool](https://meteocool.com/) provides free & open-source
 real-time rain radar and storm tracking functionality for iOS,
@@ -16,7 +16,7 @@ information from the awesome blitzortung.org project and near-realtime satellite
 <a href="https://f-droid.org/de/packages/com.meteocool/"><img src="https://raw.githubusercontent.com/meteocool/core/develop/public/assets/fdroid-small.png" style="width: 30%" alt="Get it on F-Droid"></a>
 
 
-## Features
+## Features 🎁
 
 <img src="https://raw.githubusercontent.com/v4lli/meteocool/master/doc/ios-lockscreen.png" alt="iOS Notifications" width="50%" align="right">
 
@@ -43,15 +43,15 @@ information from the awesome blitzortung.org project and near-realtime satellite
 <a href="https://meteocool.com"><img alt="Screen Shot 2022-05-12 at 23 41 54" src="https://user-images.githubusercontent.com/1577223/168177032-49166b1a-5fa8-4aa0-ae75-3e40dca7e7e8.png" style="width: 33%;"></a>
 <a href="https://meteocool.com"><img alt="Screen Shot 2022-05-12 at 23 41 49" src="https://user-images.githubusercontent.com/1577223/168177022-11ee8d33-b0e7-4325-9153-452adeaae5c6.png" style="float: left; width: 33%;"></a>
  
-## Contributing
+## Contributing 🧑‍💻
 
 We welcome contributions of all kinds. Check out the [Frequently Asked Questions](https://github.com/meteocool/core/wiki/FAQ) (currently only available in German).
 
-## Contact
+## Contact 💌
 
-You can reach us at support@meteocool.com, on [Twitter](https://twitter.com/meteocool_app) or through [Discord](https://discord.gg/5y4xDVpwxc). 💌
+You can reach us at support@meteocool.com, on [Twitter](https://twitter.com/meteocool_app) or through [Discord](https://discord.gg/5y4xDVpwxc).
 
-## Acknowledgements
+## Acknowledgements 🤝
 
 All our code & documentation is licensed under the AGPL-3.0 license unless noted otherwise in the respective repository's `COPYRIGHT.md` file.
 
