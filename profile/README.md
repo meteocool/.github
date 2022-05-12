@@ -5,10 +5,10 @@ real-time rain radar and storm tracking functionality for iOS,
 Android and the web. Currently available in Central Europe (DWD).
 Use it to both chase or avoid upcoming weather - that's up to you.
 
-![An exemplary cloud formation with high reflectivity (aka thunderstorm)](https://raw.githubusercontent.com/v4lli/meteocool/master/doc/pano-thunderstorm.jpg "An exemplary cloud formation with high reflectivity")
+![Some random super cell)](https://raw.githubusercontent.com/v4lli/meteocool/master/doc/pano-thunderstorm.jpg "An exemplary cloud formation with high reflectivity")
 
-meteocool currently uses radar data provided by DWD, realtime lightning
-information from the awesome blitzortung.org project and satellite imagery from Copernicus.
+meteocool currently uses radar data provided by DWD (every 5 mins), realtime lightning
+information from the awesome blitzortung.org project and near-realtime satellite imagery from Copernicus.
 
 
 <a href="https://itunes.apple.com/de/app/meteocool-rain-radar/id1438364623"><img src="https://raw.githubusercontent.com/v4lli/meteocool/master/frontend/assets/download-on-appstore.png" style="width 32%; float: left;" alt="Download on Apple Appstore"></a>
@@ -40,8 +40,8 @@ information from the awesome blitzortung.org project and satellite imagery from 
   app-like on modern browsers. Requires WebGL.
 
 <img alt="Screen Shot 2022-05-12 at 23 41 49" src="https://user-images.githubusercontent.com/1577223/168177022-11ee8d33-b0e7-4325-9153-452adeaae5c6.png" style="float: left; width: 32%;">
-<img width="32%" alt="Screen Shot 2022-05-12 at 23 41 54" src="https://user-images.githubusercontent.com/1577223/168177032-49166b1a-5fa8-4aa0-ae75-3e40dca7e7e8.png" style="float: left; width: 32%;">
-<img width="32%" alt="Screen Shot 2022-05-12 at 23 41 43" src="https://user-images.githubusercontent.com/1577223/168177010-ab8c6df4-6458-4489-91d3-a9bf9f1c32a4.png" style="float: left; width: 32%;">
+<img width="32%" alt="Screen Shot 2022-05-12 at 23 41 54" src="https://user-images.githubusercontent.com/1577223/168177032-49166b1a-5fa8-4aa0-ae75-3e40dca7e7e8.png" style="width: 32%;">
+<img width="32%" alt="Screen Shot 2022-05-12 at 23 41 43" src="https://user-images.githubusercontent.com/1577223/168177010-ab8c6df4-6458-4489-91d3-a9bf9f1c32a4.png" style="width: 32%;">
  
 ## Contributing
 
